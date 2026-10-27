@@ -1,0 +1,14 @@
+# Runtime-generated/private user data
+*.log
+.env
+.env.*
+!.env.example
+os-lab-progress*.json
+oslab-v3-assessments*.json
+*private*backup*/
+node_modules/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.pytest_cache/
